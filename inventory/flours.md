@@ -34,11 +34,11 @@ fully.
 | --- | --- | --- |
 | Sourdough commercial blend | 600 g pre-packed batch | Includes improvers and salt, but no yeast added. |
 | German brown commercial blend | 600 g pre-packed batch | Includes improvers and salt, but no yeast added. |
-| "Dark rye" commercial blend | 1 kg bag | Intended for 2 x 500 g loaves; includes added components similar to the other blends. |
+| "Dark rye" commercial blend | 1 kg bag | Intended for 2 x 500 g loaves. Ingredient panel recorded: wheat flour, dark rye flour, dark malt barley flour, wheat gluten, iodised salt, sugar, soy flour, vegetable oils (palm, canola), acidity regulator (330), emulsifier (472e), dough conditioners (calcium sulphate (516), synthetic L-cysteine (920)), ascorbic acid (300), and wheat enzymes. |
 
 ## Notes to capture later
 
 - Brand names for the commercial blends.
-- Exact ingredient panels where available.
+- Exact ingredient panels for the remaining commercial blends where available.
 - Early observations on hydration and handling by flour type.
 - Preferred blend ratios for mixed-grain loaves.

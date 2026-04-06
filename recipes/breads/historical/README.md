@@ -23,4 +23,5 @@ Recommended practice:
 Current recipe files:
 
 - `georgian-style-wholemeal-household-loaf.md`
+- `panis-quadratus.md`
 - `thirded-bread.md`
