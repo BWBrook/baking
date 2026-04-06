@@ -1,7 +1,7 @@
 ---
 date: 2026-04-06
 topic: Australian specialty flour suppliers
-question: Which Australian suppliers currently look useful for harder-to-get baking flours and grains?
+question: Which Australian suppliers currently look useful for harder-to-get baking flours and grains, plus masa products and small-order specialty buys?
 status: drafted
 ---
 
@@ -11,20 +11,20 @@ status: drafted
 
 Which Australian suppliers currently look useful for harder-to-get flours and
 grains such as emmer, einkorn, khorasan, barley flour, sorghum, millet,
-kibbled rye, pea flour, and potato flour?
+kibbled rye, pea flour, potato flour, and adjacent niche items such as masa
+harina or fresh-milled rye?
 
 ## Short answer
 
-The strongest current supplier map looks like this: `The Grain Family` is the
-best Tasmania-first option for fresh-milled local ancient grains and even blue
-barley, but it generally prefers local distribution and mainland shipping is
-not their default. `Four Leaf Milling`, `Simply No Knead`, and `Honest to
-Goodness` look like the most useful broad Australian online retail options.
-`Risen Flour` is especially relevant for emmer and einkorn, though einkorn
-looks limited and therefore likely volatile. `Bio-Oz` matters as an Australian
-ancient-wheat processor, while `Mirfak` has the broadest technical range for
-barley, millet, sorghum, and pea flours but appears to be aimed more at
-wholesale trade than ordinary home-baker shopping.
+The strongest current supplier map still starts with `The Grain Family`, `Four
+Leaf Milling`, `Simply No Knead`, `Honest to Goodness`, `Risen Flour`, and
+`Bio-Oz` for the original hard-to-get grain watchlist. This supplementary pass
+adds a practical second layer: `Sovereign Foods` looks strong for small-pack
+ancient grains such as emmer, `Hispanic Pantry` is useful for true masa
+harina in 1 kg bags, `Spice World` matters as a real Hobart-local masa source
+for live shopping, `The Source Bulk Foods` is useful for buy-by-weight maize
+and millet trials, and `Sieda Milling` looks promising for fresh-milled rye
+and wheat in home-baker pack sizes.
 
 ## Supplier map
 
@@ -38,6 +38,11 @@ wholesale trade than ordinary home-baker shopping.
 | Risen Flour | Useful Australian source for ancient grains | Emmer, einkorn | Einkorn appears limited and may be intermittent | [Risen Flour store](https://www.risenflour.com.au/store) |
 | Bio-Oz | Australian processor and seller of ancient wheats | Emmer, khorasan | More focused on ancient wheats than broad baking range | [Bio-Oz ancient wheats](https://www.bio-oz.com.au/ancient-wheats) |
 | Mirfak | Broad Australian grain/flour processor with many unusual products | Barley flour, millet flour, sorghum flour, yellow and green pea flour | Looks more wholesale-oriented | [Mirfak product range](https://www.mirfak.com.au/products) |
+| Sovereign Foods | Useful small-order specialty source with a clear retail presentation | Emmer and related ancient grains | Better for curated smaller buys than for the broadest flour catalogue | [Sovereign Foods emmer collection](https://sovereignfoods.com.au/collections/products-that-contain-emmer) |
+| Hispanic Pantry | Specialist Latin-food retailer with practical 1 kg corn-flour options | White, yellow, and blue masa harina | Needs careful distinction between masa harina and products such as Harina PAN | [Hispanic Pantry flour collection](https://www.hispanicpantry.com.au/collections/flour-pre-mix) |
+| Spice World | Hobart-local spice and specialty-food shop with live-shopping value | White, yellow, and blue masa harina | Online stock can rotate; good candidate for in-person checking in central Hobart | [Spice World masa harina](https://spiceworld.com.au/products/masa-harina-de-maiz) |
+| The Source Bulk Foods | Practical low-waste option for tiny flour trials | Maize flour, millet flour | Location-specific availability and not a source for true masa harina | [The Source Bulk Foods maize flour](https://shop.thesourcebulkfoods.com.au/product/organic-corn-maize-flour/) |
+| Sieda Milling | Small-batch WA mill with good fresh-flour positioning | Rye flour, sifted wheat flour, wholegrain wheat flour | Narrower range than the larger national specialty retailers | [Sieda Milling rye flour](https://www.siedamilling.com.au/product-page/rye-flour) |
 
 ## Ingredient-specific notes
 
@@ -47,6 +52,8 @@ wholesale trade than ordinary home-baker shopping.
 - `SNK` currently lists emmer flour.
 - `Bio-Oz` states it has Australian-grown emmer flour available.
 - `Risen Flour` currently lists Australian-grown stoneground emmer flour.
+- `Sovereign Foods` currently lists emmer flour in 1 kg and larger sizes, which
+  makes it attractive for small exploratory buys.
 
 ### Einkorn
 
@@ -83,6 +90,24 @@ wholesale trade than ordinary home-baker shopping.
 - `Four Leaf Milling` lists millet flour.
 - `Mirfak` lists millet flour as well.
 
+### Masa harina and maize flour
+
+- `Hispanic Pantry` currently lists 1 kg white, yellow, and blue masa harina,
+  which makes it a useful specialist source for tortilla and tamale work.
+- `Spice World` in central Hobart currently lists nixtamalized white, yellow,
+  and blue masa harina. It is also a real local walk-in option for the user's
+  blue masa harina supply rather than just an online lead.
+- `The Source Bulk Foods` currently lists organic maize flour by weight. This
+  is useful for cornbreads and some flatbreads, but it is not the same product
+  as nixtamalized masa harina.
+
+### Fresh-milled wheat and rye
+
+- `Risen Flour` currently lists wholegrain rye and explicitly positions it for
+  sourdough and continental rye breads.
+- `Sieda Milling` currently lists 1 kg spray-free rye flour and also sells
+  wheat flours in similar home-baker-friendly sizes.
+
 ### Kibbled rye
 
 - `Four Leaf Milling` sells cracked rye and explicitly notes it is also known
@@ -117,6 +142,15 @@ wholesale trade than ordinary home-baker shopping.
    pulse or minor-grain flours at larger pack sizes.
 6. Be cautious with `potato flour` labels and verify they refer to whole potato
    flour rather than starch.
+7. For small ancient-grain test buys, check `Sovereign Foods` before jumping to
+   larger bag suppliers.
+8. For genuine masa harina rather than plain maize flour or masarepa, check
+   `Hispanic Pantry` first and treat `Spice World` as the Hobart-local pickup
+   or walk-in option.
+9. For very small maize or millet trials, `The Source Bulk Foods` is a good
+   low-waste option.
+10. For fresh-milled rye or wheat in 1 kg-style home-baker quantities, check
+    `Sieda Milling`.
 
 ## Source snapshots
 
@@ -135,9 +169,15 @@ wholesale trade than ordinary home-baker shopping.
 | Goodness Flour khorasan | Identifies Tasmanian sourcing from The Grain Family | [Khorasan Wheat Flour](https://www.goodnessflour.com.au/product-page/khorasan-wheat-flour) |
 | Risen Flour emmer | Lists Australian-grown stoneground emmer flour | [Emmer Wholemeal Flour](https://www.risenflour.com.au/store/Emmer-WHOLE-SUSTAINABLE-%26-Stoneground-p381300892) |
 | Risen Flour einkorn | Lists einkorn flour and showed sold-out status at crawl time | [Einkorn Flour](https://www.risenflour.com.au/store/Einkorn-Flour-p731602911) |
+| Risen Flour rye | Lists wholegrain rye for sourdough and continental rye breads | [Rye Wholegrain Flour](https://www.risenflour.com.au/shop/Rye-Wholegrain-Flour-Milled-by-Risen-Flour-p236357851) |
 | Bio-Oz ancient wheats | States Australian-grown emmer and khorasan flour are available | [Bio-Oz ancient wheats](https://www.bio-oz.com.au/ancient-wheats) |
 | Mirfak products | Lists barley flour, millet flour, sorghum flours, and yellow and green pea flours | [Mirfak product range](https://www.mirfak.com.au/products) |
 | The Source Bulk Foods millet flour | Lists Australian organic millet flour | [Australian Organic Millet Flour](https://shop.thesourcebulkfoods.com.au/product/organic-australian-millet-flour/) |
+| The Source Bulk Foods maize flour | Lists Australian organic maize flour by weight and notes it is not the same as Australian cornflour | [Australian Organic Maize Flour](https://shop.thesourcebulkfoods.com.au/product/organic-corn-maize-flour/) |
+| Sovereign Foods emmer collection | Lists emmer flour in 1 kg and larger sizes | [Products that contain Emmer](https://sovereignfoods.com.au/collections/products-that-contain-emmer) |
+| Hispanic Pantry masa harina collection | Lists white, yellow, and blue masa harina plus adjacent Latin flours | [Flour & Pre-Mix Collection](https://www.hispanicpantry.com.au/collections/flour-pre-mix) |
+| Spice World masa harina | Lists white, yellow, and blue masa harina and explains nixtamalized corn flour | [Masa Harina (Corn Flour for Tortillas)](https://spiceworld.com.au/products/masa-harina-de-maiz) |
+| Sieda Milling rye flour | Lists spray-free rye flour and emphasizes fresh milling | [Spray Free Rye Flour](https://www.siedamilling.com.au/product-page/rye-flour) |
 | Natural Evolution Foods | Lists Australian gold sweet potato flour | [Gold Sweet Potato Flour](https://www.naturalevolutionfoods.com.au/products/gold-sweet-potato-flour) |
 
 ## Notes for future refinement
@@ -145,3 +185,5 @@ wholesale trade than ordinary home-baker shopping.
 - Re-check supplier coverage before any major bulk order.
 - Add freight and pack-size comparisons if repeated ordering becomes normal.
 - Build a preferred-supplier list after a few actual purchases and bake tests.
+- Keep distinguishing `masa harina`, `maize flour`, and `masarepa`, because
+  they overlap in use but are not directly interchangeable.

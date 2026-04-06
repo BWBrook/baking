@@ -45,6 +45,14 @@ Known local source for:
 
 Note: wholemeal rye flour is already on hand in the current pantry inventory.
 
+### Spice World, central Hobart
+
+Known local specialist source for:
+
+- blue masa harina,
+- other masa harina variants when stocked,
+- live in-person shopping for Latin and spice ingredients.
+
 ## Online and specialty sourcing
 
 ### Tasmania-first option
@@ -70,6 +78,24 @@ Note: wholemeal rye flour is already on hand in the current pantry inventory.
   lines, including khorasan, sorghum, and yellow pea flour.
 - `Risen Flour`
   Useful for some ancient grains, especially emmer and occasional einkorn.
+- `Sovereign Foods`
+  Good option for small-pack ancient-grain buys, especially emmer in 1 kg
+  sizes.
+- `Sieda Milling`
+  Good fresh-milled WA option for rye and wheat flours in home-baker-friendly
+  pack sizes.
+
+### Masa and maize specialists
+
+- `Hispanic Pantry`
+  Good national specialist source for 1 kg white, yellow, and blue masa harina,
+  plus related Latin American pantry items.
+- `Spice World`
+  Strong Hobart-local option for masa harina, especially when live shopping or
+  local pickup is preferable to postage.
+- `The Source Bulk Foods`
+  Useful for buy-by-weight maize and millet flour trials when keeping order
+  size and waste low matters more than sourcing true masa harina.
 
 ### Broader supplier and processor options
 
@@ -103,6 +129,9 @@ Current target ingredients for more careful sourcing:
   rather than whole potato flour.
 - `Kibbled rye` appears available from some Australian milling and baking
   suppliers, but stock status may vary.
+- `Masa harina`, ordinary `maize flour`, and `masarepa` should be tracked as
+  separate pantry concepts, because they suit different recipes and are not
+  directly interchangeable.
 
 ## Related research
 

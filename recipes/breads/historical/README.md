@@ -22,6 +22,8 @@ Recommended practice:
 
 Current recipe files:
 
+- `georgian-french-bread-bricks.md`
+- `georgian-fine-white-table-boule.md`
 - `georgian-style-wholemeal-household-loaf.md`
 - `panis-quadratus.md`
 - `thirded-bread.md`

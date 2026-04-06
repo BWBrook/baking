@@ -9,6 +9,7 @@ reconstruction work. Mixed-flour loaves are especially in scope.
 Good future candidates here include:
 
 - a basic white sandwich loaf,
+- an Australian damper,
 - a Dutch oven hearth loaf,
 - a wholemeal blend loaf,
 - a rye or dark rye blend loaf,
