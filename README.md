@@ -1,0 +1,3 @@
+# baking
+
+Initial repository bootstrap.
