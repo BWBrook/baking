@@ -16,6 +16,11 @@ repository.
   total flour.
 - Standard quick-bread format is usually a cast-iron-skillet bake built around
   500 g to 650 g total flour.
+- The middle shelf is the normal baking position.
+- Fan-forced temperatures often work best about 10 C to 20 C lower than
+  conventional recipe guidance in this kitchen.
+- Because the main covered vessels are round, boule-style loaves and round
+  quick breads are the natural default shapes.
 
 ## Equipment-centered assumptions
 
@@ -26,6 +31,13 @@ repository.
   clear reason to do something else.
 - The cast-iron skillet is the preferred vessel for quick breads unless a
   different tin or tray is part of the recipe style.
+- The skillet lid seals well enough to treat it as a steam-retaining covered
+  vessel.
+- A short grill finish can be used when a loaf or bread needs extra top
+  browning.
+- Tin loaves are possible later, but require acquiring a loaf tin first.
+- Tray-baked breads and baked goods such as baguettes, biscuits, and scones are
+  in scope even without a stone.
 
 ## Open development areas
 
@@ -36,3 +48,5 @@ repository.
 - Historical loaf reconstruction from medieval through Georgian periods.
 - Ancient-grain experiments using emmer, einkorn, khorasan, and related grains
   if acquired.
+- Steam-tray baking for tray-baked breads is of interest, but has not yet been
+  tried in this kitchen.

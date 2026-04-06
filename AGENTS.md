@@ -30,6 +30,8 @@ Use this repo to help the user:
 
 - `inventory/` stores current ingredients, flours, leaveners, and equipment.
 - `recipes/` stores working and stable recipes.
+- `recipes/ingest.md` is the temporary intake file for raw notes that still
+  need to be worked into the repository properly.
 - `bake_logs/` stores dated records of individual sessions.
 - `research/` stores sourced notes from web research or other references.
 - `techniques/` stores general method notes that are not tied to one recipe.
@@ -47,6 +49,8 @@ Use this repo to help the user:
   adaptation choices.
 - When mixed flours are used, note the structural role of strong white flour
   versus flavor, nutrition, or texture contributions from the other grains.
+- When `recipes/ingest.md` contains raw notes, process them into the proper
+  destination files and then reset the intake file for the next dump.
 
 ## Current household defaults
 

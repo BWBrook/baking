@@ -19,3 +19,8 @@ Recommended practice:
 - note where ingredient substitutions are being made for practicality,
 - track how the result compares with both the historical intent and modern
   eating quality.
+
+Current recipe files:
+
+- `georgian-style-wholemeal-household-loaf.md`
+- `thirded-bread.md`

@@ -6,5 +6,6 @@ notebook.
 - `flours.md` tracks pure flours and commercial bread blends.
 - `pantry.md` tracks leaveners and other staple baking ingredients.
 - `equipment.md` tracks the current home baking setup.
+- `suppliers.md` tracks where ingredients can currently be sourced.
 
 Update these files whenever the pantry or toolset changes.
