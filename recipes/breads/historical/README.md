@@ -26,5 +26,7 @@ Current recipe files:
 - `georgian-french-bread-bricks.md`
 - `georgian-fine-white-table-boule.md`
 - `georgian-style-wholemeal-household-loaf.md`
+- `late-saxon-ipswich-style-mixed-wheat-loaf.md`
 - `panis-quadratus.md`
 - `thirded-bread.md`
+- `viking-barley-oat-and-rye-hearth-bread.md`

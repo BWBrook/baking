@@ -24,4 +24,5 @@ Current note files:
 - `leavening.md`
 - `oven-and-vessel-notes.md`
 - `preferments.md`
+- `retard-and-cold-proofing.md`
 - `scalds.md`
