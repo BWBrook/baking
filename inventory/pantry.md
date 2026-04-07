@@ -22,7 +22,7 @@ This file records non-flour baking staples currently on hand.
 | Item | Notes |
 | --- | --- |
 | Psyllium husk | Added in small amounts, usually about 10 g to 15 g, to quick breads for binding. |
-| Potato flakes, Deb brand | Used in small quantities, around 50 g, to soften crumb. Could also be made into a full mash for a Georgian-style 50:50 wheat-potato bread experiment. |
+| Potato flakes, Deb brand | Used in small quantities, around 50 g, to soften crumb. Also suitable for prepared-mash or dry-flake potato-bread experiments. Packet notes indicate potato flake (84%) plus emulsifier, preservative, oil, dairy ingredients, salt, and flavourings, so it is not a pure plain-potato ingredient. |
 
 ## Sweeteners and enrichments
 

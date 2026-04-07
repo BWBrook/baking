@@ -22,6 +22,7 @@ Recommended practice:
 
 Current recipe files:
 
+- `1790s-style-wheat-and-potato-loaf.md`
 - `georgian-french-bread-bricks.md`
 - `georgian-fine-white-table-boule.md`
 - `georgian-style-wholemeal-household-loaf.md`

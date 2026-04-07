@@ -11,17 +11,17 @@ This file records the flours and flour-like dry bases currently on hand.
 | Wholemeal rye flour | Wholemeal rye flour | For rye breads and mixed loaves. |
 | Wholemeal spelt flour | Wholemeal spelt flour | For spelt breads and blends. |
 | Oaten flour | Oat flour | Useful for blends and softer crumb styles. |
-| Barley flour | Barley flour | Blend ingredient; behavior still to be documented in this repo. |
+| Barley flour | Barley flour | Mild, slightly sweet supporting flour. Currently most promising in savory quick breads, with later yeasted-loaf trials still open. |
 
 ## Alternative and non-wheat flours
 
 | Item | Type | Notes |
 | --- | --- | --- |
-| Quinoa flour | Pseudocereal flour | Blend ingredient; behavior still to be documented in this repo. |
-| Buckwheat flour | Pseudocereal flour | Useful for flavor and specialty breads or cakes. |
+| Quinoa flour | Pseudocereal flour | Nutty accent flour. Best kept moderate in yeasted loaves, but can take a larger role in quick breads. |
+| Buckwheat flour | Pseudocereal flour | Earthy, assertive flour for mixed loaves and quick breads. Usually best kept moderate unless strongly supported by wheat or a sponge-style method. |
 | Chickpea flour | Legume flour | Useful for flatbreads, savory bakes, and blends. |
 | Cornmeal, medium grind | Maize meal | Bob's Red Mill gluten-free medium grind whole-grain stone-ground cornmeal. Useful for texture, cornbread, dusting, and some breads. |
-| Blue masa harina | Nixtamalized maize flour | Best treated as its own category rather than a wheat substitute. |
+| Blue masa harina | Nixtamalized maize flour | Best treated as its own category rather than a wheat substitute. Useful for tortillas and other masa-based cooking, but also for nixtamalized quick-bread experiments. |
 | Rice flour | Fine rice flour | Mainly used for dusting, handling, and anti-stick work. |
 
 ## Commercial blends

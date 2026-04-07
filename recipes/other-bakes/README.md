@@ -6,5 +6,7 @@ bread folders.
 
 Current recipe files:
 
+- `barley-buckwheat-quinoa-skillet-stew-bread.md`
+- `blue-masa-skillet-bread.md`
 - `gluten-free-thirded-skillet-quick-bread.md`
 - `skillet-cornbread-with-white-flour.md`
