@@ -4,7 +4,8 @@ This directory stores working recipes and stable house recipes.
 
 Suggested subfolders:
 
-- `breads/` for yeasted and naturally leavened breads,
+- `breads/` for yeasted and naturally leavened breads, with `modern/` and
+  `historical/` as the main internal split,
 - `flatbreads/` for unleavened or low-structure doughs,
 - `other-bakes/` for cakes, quick breads, biscuits, and similar items,
 - `templates/` for reusable drafting formats.

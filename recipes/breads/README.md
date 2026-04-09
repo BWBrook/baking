@@ -3,18 +3,20 @@
 Use this folder for loaf breads, rolls, buns, focaccia, rye breads, enriched
 doughs, and other bread-centered recipes.
 
-This folder should eventually include both modern house breads and historical
-reconstruction work. Mixed-flour loaves are especially in scope.
+This folder now separates modern house breads from historical reconstruction
+work. Mixed-flour loaves are especially in scope across both.
 
-Current recipe files:
+Current subfolders:
 
-- `australian-damper.md`
-- `barossa-sourdough-rye-and-spelt-dutch-oven-boule.md`
-- `buckwheat-and-quinoa-maslin-dutch-oven-boule.md`
-- `dark-rye-commercial-blend-dutch-oven-boule.md`
-- `deb-potato-flake-convenience-loaf.md`
-- `german-grain-and-rye-dutch-oven-boule.md`
 - `historical/`
+- `modern/`
+
+Organizing rule:
+
+- `historical/` is for recipes primarily driven by older sources or historical
+  reconstruction goals.
+- `modern/` is for current house breads, commercial-mix adaptations, and other
+  non-historical modern formulas.
 
 Good future candidates here still include:
 

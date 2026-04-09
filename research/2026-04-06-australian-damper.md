@@ -71,7 +71,7 @@ debated influence rather than an established single origin.
 
 ## Practical implications for this repo
 
-- The recipe belongs in `recipes/breads/`, not `flatbreads/`.
+- The recipe belongs in `recipes/breads/modern/`, not `flatbreads/`.
 - A chemically leavened oven version is the most practical everyday house
   recipe.
 - A flour-water-salt campfire version should be recorded as the stricter older
