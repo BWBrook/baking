@@ -139,6 +139,28 @@ In practical house terms:
 - overnight is the normal first trial,
 - and room-temperature fermentation before chilling still matters.
 
+## Seasonal house pattern
+
+This note has become especially relevant for this kitchen's colder months.
+
+From late autumn through early spring, the kitchen is often only about `10 C`
+to `16 C`. In that range, same-day room-temperature schedules can become
+awkward, especially for low-yeast or prefermented loaves.
+
+A practical house default for those months is:
+
+- Friday night: make the preferment.
+- Saturday: mix the final dough and complete bulk fermentation.
+- Saturday night: shape the loaf, place it in the banneton, cover, and
+  refrigerate.
+- Sunday morning: score and bake from cold in the Dutch oven.
+
+This pattern fits the user's usual one-loaf weekend rhythm and avoids trying to
+force full room-temperature proofing in a cold kitchen on a tight schedule.
+
+It should be treated as a strong default for prefermented Dutch-oven loaves in
+cool weather, not as a universal rule for every bread in the repo.
+
 ## Research basis
 
 Updated: 2026-04-07

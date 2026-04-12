@@ -21,6 +21,10 @@ repository.
   conventional recipe guidance in this kitchen.
 - Because the main covered vessels are round, boule-style loaves and round
   quick breads are the natural default shapes.
+- In late autumn, winter, and early spring, when the kitchen is often about
+  `10 C` to `16 C`, a weekend bread rhythm of Friday preferment, Saturday mix
+  and bulk, Saturday-night cold proof, and Sunday bake-from-cold is likely the
+  most dependable default for prefermented loaves.
 
 ## Equipment-centered assumptions
 

@@ -4,7 +4,7 @@ category: yeasted-bread
 status: trial
 default_leavening: instant_dry_yeast
 created: 2026-04-09
-last_updated: 2026-04-09
+last_updated: 2026-04-12
 ---
 
 # Beginner Rustic Poolish Boule
@@ -118,7 +118,8 @@ an especially good target.
 
 ## Variables to watch
 
-- Whether the dough wants the full proof time in your kitchen
+- Whether a cool `~15 C` kitchen pushes this loaf beyond the written bulk and
+  proof timings
 - Whether parchment transfer or direct loading feels more reliable
 - Whether you prefer a single slash or a cross score on this loaf
 - Whether the loaf would benefit from `10 g` to `20 g` extra water once the
@@ -138,11 +139,12 @@ an especially good target.
 
 ## Linked bake logs
 
-- None yet.
+- `bake_logs/2026/2026-04-12-beginner-rustic-poolish-boule.md`
 
 ## Next planned changes
 
 - Decide whether the loaf is even better with a small hydration increase.
-- Compare this room-temperature final proof against a short cold proof.
+- Trial a Saturday-night final retard and Sunday bake-from-cold as the likely
+  cold-season house schedule for this loaf.
 - Record whether the rice-flour banneton dusting feels clearly better than
   ordinary flour alone.
