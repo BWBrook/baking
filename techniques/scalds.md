@@ -127,6 +127,34 @@ Useful distinction:
 - `Brühstück` = hot-water scald
 - `Kochstück` = cooked paste
 
+## Rye-specific scalds
+
+Rye deserves special mention because hot-water scalds are especially useful in
+rye work.
+
+Why:
+
+- rye binds water strongly,
+- rye dough becomes sticky and pasty much more quickly than wheat dough,
+- and rye-heavy breads often benefit from a pre-hydrated, partially gelatinized
+  rye portion.
+
+What a rye scald tends to do:
+
+- pre-hydrates thirsty rye flour, meal, or chops,
+- gelatinizes part of the starch,
+- improves moisture retention and sliceability,
+- and gives a fuller, rounder rye flavour.
+
+One related European term worth knowing is `AromaStück`, a thermally guided
+warm scald held long enough to develop extra aroma and natural maltose.
+
+Important limit:
+
+- a hot rye scald is not the same thing as acidifying rye,
+- and at high rye percentages a sourdough or other acidic rye phase still does
+  stabilizing work that a straight hot scald does not replace.
+
 ## Historical and style notes
 
 - Rye and northern European breads often benefit from some form of scald or hot
@@ -149,12 +177,13 @@ For this repo, the most likely uses are:
 
 ## Research basis
 
-Updated: 2026-04-06
+Updated: 2026-04-13
 
 Question:
 
-Which scald-style methods are most worth tracking in this repo, and how do
-Asian methods such as yudane and tangzhong relate to European baking variants?
+Which scald-style methods are most worth tracking in this repo, how do Asian
+methods such as yudane and tangzhong relate to European baking variants, and
+what special role do scalds play in rye breads?
 
 Short synthesis:
 
@@ -163,12 +192,18 @@ Short synthesis:
   `Kochstück` as distinct unfermented pre-doughs.
 - `Kochstück` is the closest European analogue to tangzhong, while
   `Brühstück` is the clearer hot-water scald.
+- Rye-specific hot scalds are especially useful for pre-hydration and flavour,
+  but they do not replace rye acidification in high-rye breads.
 
 Sources:
 
 - American Society of Baking: [Tangzhong Method](https://asbe.org/article/tangzhong-method/)
+- American Society of Baking: [Rye Flour](https://asbe.org/article/rye-flour/)
+- American Society of Baking: [Starch Gelatinization](https://asbe.org/article/starch-gelatinization/)
 - King Arthur Baking: [A closer look at tangzhong](https://www.kingarthurbaking.com/blog/2021/02/05/tangzhong-method-soft-pillowy-cinnamon-rolls)
+- King Arthur Baking Pro: [Preferment](https://www.kingarthurbaking.com/pro/reference/preferment)
 - Richemont Fachschule course outline: [Diplomlehrgang Bäckerei](https://richemont.swiss/wp-content/uploads/2019/06/diplomlehrgang-baeckerei_online_2019.pdf)
 - DIOSNA whitepaper: [Pre-dough solutions](https://www.diosna.com/fileadmin/media/PDF-Dateien/DIOSNA_Predough_Whitepaper_EN.pdf)
+- DIOSNA: [Aroma Ecoline](https://www.diosna.com/products/fermenters/aroma-ecoline/)
 - V-ZUG Switzerland: [Japanisches Milchbrot](https://www.vzug.com/ch/de/recipe/japanisches_milchbrot--rvzug.recipe.2025.japanisches_milchbrot)
 - V-ZUG Austria: [Kastenbrot](https://www.vzug.com/at/de/recipe/kastenbrot--rvzug.recipe.2021.kastenbrot)

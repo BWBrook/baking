@@ -12,6 +12,7 @@ Current recipe files:
 - `dark-rye-commercial-blend-dutch-oven-boule.md`
 - `deb-potato-flake-convenience-loaf.md`
 - `german-grain-and-rye-dutch-oven-boule.md`
+- `scalded-honey-rye-boule.md`
 - `skillet-herb-and-cheese-focaccia.md`
 
 Use this folder when the recipe is mainly a present-day house formula rather
