@@ -35,6 +35,8 @@ Use this repo to help the user:
 - `bake_logs/` stores dated records of individual sessions.
 - `research/` stores sourced notes from web research or other references.
 - `techniques/` stores general method notes that are not tied to one recipe.
+- `build/` stores generated outputs such as Kindle `EPUB` files and delivery
+  reports; it is not tracked in git.
 
 ## Content rules
 
@@ -51,6 +53,8 @@ Use this repo to help the user:
   versus flavor, nutrition, or texture contributions from the other grains.
 - When `recipes/ingest.md` contains raw notes, process them into the proper
   destination files and then reset the intake file for the next dump.
+- Kindle delivery config is local-only in `.baking.local.yml`; never commit
+  Kindle addresses, sender addresses, or SMTP secrets.
 
 ## Current household defaults
 

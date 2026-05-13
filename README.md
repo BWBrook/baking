@@ -88,6 +88,26 @@ Typical workflow:
 
 This keeps evidence, interpretation, and revision separate.
 
+## Kindle and EPUB
+
+Recipes and research notes can be built as Kindle-friendly `EPUB` files.
+
+Useful commands:
+
+```bash
+make kindle-list
+make epub FILE=recipes/breads/modern/beginner-rustic-poolish-boule.md
+make epub FILE=recipes/breads/modern/beginner-rustic-poolish-boule.md INCLUDE_RESEARCH=1
+make kindle-init-config
+make kindle-preflight FILE=recipes/breads/modern/beginner-rustic-poolish-boule.md
+make kindle FILE=recipes/breads/modern/beginner-rustic-poolish-boule.md
+```
+
+Generated files land under `build/kindle/` and are not tracked in git. Kindle
+delivery uses a local-only config at `.baking.local.yml`, seeded from the
+existing creative-writer Kindle config when available. SMTP passwords are read
+from the environment or macOS Keychain; they are not stored in this repo.
+
 ## Naming conventions
 
 - Bake logs: `YYYY-MM-DD-short-name.md`

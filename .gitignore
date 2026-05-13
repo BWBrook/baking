@@ -1,0 +1,5 @@
+build/
+.baking.local.yml
+__pycache__/
+*.pyc
+.DS_Store
