@@ -3,7 +3,7 @@ title: Kaswira-Inspired Quinoa and Blue Masa Griddle Breads
 category: flatbread
 status: trial
 created: 2026-04-07
-last_updated: 2026-04-07
+last_updated: 2026-05-11
 ---
 
 # Kaswira-Inspired Quinoa and Blue Masa Griddle Breads
@@ -35,6 +35,8 @@ for the source note behind this recipe.
 - Uses blue masa harina as the support flour so the recipe stays closer to a
   pre-wheat American grain logic.
 - Makes small individual griddle breads rather than one large fragile round.
+- The later oven-baked skillet-round variant is now tracked separately in
+  `recipes/flatbreads/kaswira-inspired-quinoa-blue-masa-oven-skillet-round.md`.
 
 ## Ingredients
 
@@ -105,3 +107,5 @@ for the source note behind this recipe.
 - Decide whether the breads are better pressed thicker or thinner.
 - Trial a version cooked in a little more oil to move closer to fried
   `kaswira`.
+- Compare the small griddle-bread version against the oven-baked skillet round
+  once both have repeatable measurements.

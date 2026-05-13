@@ -10,3 +10,4 @@ Current recipe files:
 - `arab-andalusian-chickpea-skillet-flatbread.md`
 - `buckwheat-and-spelt-skillet-blini.md`
 - `kaswira-inspired-quinoa-and-blue-masa-griddle-breads.md`
+- `kaswira-inspired-quinoa-blue-masa-oven-skillet-round.md`
