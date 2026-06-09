@@ -27,6 +27,7 @@ CREATIVE_WRITER_CONFIG = Path(
 )
 LOCAL_CONFIG_ENV = "BAKING_LOCAL_CONFIG"
 DEFAULT_KEYCHAIN_SERVICE = "creative-writer/gmail-smtp"
+EPUB_LANGUAGE = "en-AU"
 
 
 class CookingKindleError(RuntimeError):
@@ -321,6 +322,8 @@ def build_epub(file_arg: str, include_linked_research: bool) -> BuiltEpub:
             f"title={title}",
             "--metadata",
             "author=Barry W. Brook",
+            "--metadata",
+            f"lang={EPUB_LANGUAGE}",
             "--output",
             str(epub_path),
         ]
