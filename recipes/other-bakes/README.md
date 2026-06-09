@@ -9,4 +9,5 @@ Current recipe files:
 - `barley-buckwheat-quinoa-skillet-stew-bread.md`
 - `blue-masa-skillet-bread.md`
 - `gluten-free-thirded-skillet-quick-bread.md`
+- `modern-hard-tack-ship-biscuit-variants.md`
 - `skillet-cornbread-with-white-flour.md`
