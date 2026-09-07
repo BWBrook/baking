@@ -3,7 +3,7 @@ title: Modern Hard Tack and Ship's Biscuit Variants
 category: biscuit
 status: trial
 created: 2026-06-09
-last_updated: 2026-06-09
+last_updated: 2026-07-03
 ---
 
 # Modern Hard Tack and Ship's Biscuit Variants
@@ -122,6 +122,12 @@ Expected result:
 - more crumbly than the wheat and rye versions,
 - good with beans, chilli, stew, or strong cheese.
 
+First bake note:
+
+- A reported 2026-06 bake of this variant was superb and genuinely hard after
+  residual-heat oven drying. The baker estimated final moisture was probably no
+  more than about `10%`, though this was not measured.
+
 ## Variant 4: Barley-Oat Pantry Biscuit
 
 This is the gentlest, slightly sweeter grain version. It will be more fragile
@@ -178,6 +184,10 @@ Expected result:
 - Which flour blend stays crisp longest
 - Whether the blue masa and quinoa version needs a small amount of psyllium if
   it proves too crumbly
+- Whether residual-heat oven drying should be shortened when the goal is a
+  more palatable crisp biscuit rather than true hard tack
+- Whether a lighter "puffed tack" version works best with `10 g` to `12 g`
+  baking powder per `300 g` flour, with `15 g` as the upper experimental end
 
 ## Notes
 
@@ -195,10 +205,11 @@ Expected result:
 
 ## Linked bake logs
 
-- None yet.
+- `bake_logs/2026/2026-06-28-blue-masa-quinoa-hard-tack.md`
 
 ## Next planned changes
 
-- Bake a small half-batch of two variants side by side.
+- Compare the successful blue masa and quinoa hard-tack version against a
+  shorter-dried eating version.
 - Record which blend is pleasant enough to repeat.
 - Decide whether the house target is cracker-crisp or truly hard-storage dry.
