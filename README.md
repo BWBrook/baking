@@ -1,5 +1,7 @@
 # Baking Notebook
 
+> **Status:** developed in the open as a working record. This is work in progress: contents may change, and nothing here is peer-reviewed unless stated.
+
 This repository is a versioned home-baking notebook. Its purpose is to keep
 recipes, bake logs, pantry knowledge, technique notes, and sourced research in
 one durable place so methods can improve over time through actual kitchen
@@ -145,3 +147,7 @@ This repo is intended to work well with Codex. Useful recurring tasks include:
 - Start a short research note on one current question, such as hydration,
   proofing, shaping, or Dutch oven timing.
 - Add a second historical or maslin-style loaf once the first trial is logged.
+
+## Licence
+
+Code is released under the [MIT Licence](LICENSE). Text, figures and data created for this project are released under [CC BY-SA 4.0](LICENSE-CONTENT). Third-party material keeps its own terms where stated.
